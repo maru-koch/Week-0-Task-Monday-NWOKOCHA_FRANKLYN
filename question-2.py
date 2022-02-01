@@ -1,7 +1,7 @@
 
 def leapYear(year):
     """
-        - this methods determines if a year is a leap year or not.
+        - this function determines if a year is a leap year or not.
         - flow logic is based on the following premises:
             - a year is a leap year if evenly divided by four
             - excerp for century ending with 00

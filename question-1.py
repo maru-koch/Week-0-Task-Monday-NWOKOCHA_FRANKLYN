@@ -3,7 +3,7 @@ def factorialCalcualtor(number):
     """
         ASSIGNMENT - Question 1
 
-        - This methods calculates the factorial of an integer using\
+        - This function calculates the factorial of an integer using\
           the formula n! = n(n-1)!
 
     """
